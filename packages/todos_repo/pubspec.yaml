@@ -1,0 +1,16 @@
+name: todos_repo
+description: domain layer --handles todo related requests. (combines one or more data providers and applies “business rules” to the data.)
+version: 0.1.0+1
+publish_to: none
+
+environment:
+  sdk: "^3.3.0"
+
+dependencies:
+  todos_api:
+    path: ../todos_api
+
+dev_dependencies:
+  mocktail: ^1.0.3
+  test: ^1.25.2
+  very_good_analysis: ^5.1.0
