@@ -1,1 +1,0 @@
- /Users/eve/Developer/bloc_todos/.dart_tool/flutter_gen/gen_l10n/app_localizations_en.dart /Users/eve/Developer/bloc_todos/.dart_tool/flutter_gen/gen_l10n/app_localizations.dart:  /Users/eve/Developer/bloc_todos/l10n.yaml /Users/eve/Developer/bloc_todos/lib/l10n/arb/app_en.arb
